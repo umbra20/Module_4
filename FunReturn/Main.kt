@@ -1,4 +1,4 @@
-fun main() {
+/*fun main() {
     val size = 10
     val localMin = IntArray(size) { (1..100).shuffled().first() }
 
@@ -110,4 +110,5 @@ fun proverka(array: IntArray) {
     }
     println("  ")
 }
+*/
 */
